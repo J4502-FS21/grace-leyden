@@ -1,2 +1,2 @@
 # grace-leyden
-[First Website.zip](https://github.com/J4502-FS21/grace-leyden/files/7108966/First.Website.zip)
+https://j4502-fs21.github.io/grace-leyden/
