@@ -1,0 +1,48 @@
+body {
+
+  background: #A0B3FC;
+  text-align: center;
+  font-family: "Nanum Gothic", sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+h1, h2 {
+
+  font-family: 'Crimson Text', bold;
+}
+
+ul {
+	list-style-type: none;
+}
+
+h1, h2 {
+  font-family: 'Noto Sans', serif;
+}
+
+p{
+  font-family: 'Crimson Text', sans-serif;
+}
+
+img{
+  width: 50%;
+  max-width: 500px;
+  border: 0;
+	outline: 0;
+
+ }
+
+ a{
+   font-family: 'Crimson Text', serif;
+   text-decoration: none;
+   color: #BEFCA0;
+   text-transform: uppercase;
+   font-style: condensed bold;
+
+ }
+
+section{
+  background-color: #E5F5DD;
+  padding: 30px;
+  margin: 30px 0px;
+}
