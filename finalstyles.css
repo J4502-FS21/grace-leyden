@@ -1,5 +1,5 @@
 body {
-  background: #D2E0BF;
+  background: #E8FBFF ;
 text-align: center;
   margin: auto;
   padding: auto;
@@ -15,21 +15,21 @@ margin: auto;
 padding: 10px;
 font-family: 'Hevetica', bold;
 font-size: 40px;
-color: #005B22;
+color: #103139;
 }
 
 h2 {
 font-family: 'Baskerville', serif;
 font-size: 20px;
 background: none;
-text-align: left;
+text-align: center;
 margin: 2px;
 padding: 2px;
-color: #F46113;
+color: #09718A;
 }
 
 .topnav{
-  background-color: #005B22;
+  background-color: #A6E6F6;
   overflow: hidden;
 }
 
@@ -44,7 +44,7 @@ color: #F46113;
 }
 
 .topnav a:hover {
-  background-color: #FF5442;
+  background-color: #587880;
   color: black;
 }
 
